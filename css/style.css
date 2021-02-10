@@ -1,0 +1,25 @@
+body {
+    background-color: #FFEAEE;
+}
+
+.layout div {
+    height: 500px;
+    width: 250px;
+    display: inline-block;
+}
+
+#columnOne {
+    background-color: #7ea172;
+}
+
+#columnTwo {
+    background-color: #e7a977;
+}
+
+#columnThree {
+    background-color: #0D5D56;
+}
+
+#columnFour {
+    background-color: #AA78A6;
+}
